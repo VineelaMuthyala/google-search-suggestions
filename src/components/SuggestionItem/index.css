@@ -1,0 +1,17 @@
+.suggestions-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 10px;
+}
+.suggestion-text {
+  font-size: 14px;
+  color: #475569;
+  font-family: 'roboto';
+}
+.arrow {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  margin-right: 10px;
+}
